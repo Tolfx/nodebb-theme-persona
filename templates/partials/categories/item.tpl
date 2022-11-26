@@ -1,4 +1,4 @@
-<li component="categories/category" data-cid="{../cid}" data-numRecentReplies="1" class="row clearfix category-{../cid}">
+<li component="categories/category" section="{../isSection}" data-cid="{../cid}" data-numRecentReplies="1" class="row clearfix category-{../cid}">
 	<meta itemprop="name" content="{../name}">
 
 	<div class="content col-12 <!-- IF config.hideCategoryLastPost -->col-md-10 col-sm-12<!-- ELSE -->col-md-7 col-sm-9<!-- ENDIF config.hideCategoryLastPost -->">
